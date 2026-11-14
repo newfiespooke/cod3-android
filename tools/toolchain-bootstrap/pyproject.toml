@@ -7,7 +7,7 @@ authors = [{ name = "Travis Bender" }]
 requires-python = ">=3.10"
 dependencies = [
   "requests>=2.32.0,<3.0.0",
-  "filelock>=3.0.0,<4.0.0",
+  "filelock>=3.0.0,<5.0.0",
   "winregenv>=0.2.0,<0.3.0",
   "plumbum>=1.9.0,<2.0.0",
   "typer>=0.15.0,<1.0.0",
